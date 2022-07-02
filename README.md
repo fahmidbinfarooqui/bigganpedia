@@ -1,2 +1,2 @@
-# bigganpedia
-A Encyclopedia of Science in the Bangla Language
+# বিজ্ঞানপিডিয়া
+মাতৃভাষা বাংলায় সমৃদ্ধ এক বিজ্ঞানভিত্তিক এনসাইক্লোপিডিয়া..
